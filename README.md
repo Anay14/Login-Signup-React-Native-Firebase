@@ -1,12 +1,25 @@
-# Login-SignUp-UI-React-Native
+# Login-SignUp-React-Native-Firebase
 
 ![Image](https://cdn.dribbble.com/userupload/5815631/file/original-5b6d7bdf59defe4156b0cb25607ab182.png?compress=1&resize=1024x768)
+
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <p>
+      Watch Tutorial on YouTube <a href="https://youtu.be/idPGWpVLHP0" target="_blank">Authentication in React Native with Firebase</a>
+    </p>
+    
+  </p>
+  
 
 ## Get Started
 
 install dev dependencies
 
 ### `npm install` or `yarn install`
+
+## Then
+
+Create firebase app with email/password auth enabled and copy firebase config to /config/firebase.js file
 
 ## Then
 
@@ -25,3 +38,10 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 #### `npm run android` or `yarn run android`
 
 Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+
+<br />
+
+💙 If you like this project, give it a ⭐ and share it with friends!
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
